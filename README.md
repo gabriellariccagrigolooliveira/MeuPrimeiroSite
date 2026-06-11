@@ -1,4 +1,4 @@
 # MeuPrimeiroSite
 
-aluna o primeiro ano do ensin médio do colégio elias abrahão.
+aluna do primeiro ano do ensin médio do colégio elias abrahão.
 
